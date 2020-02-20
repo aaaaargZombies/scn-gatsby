@@ -11,10 +11,9 @@ module.exports = {
 			resolve: "gatsby-source-radar",
 			options: {
 				centres: [
-					"DIY Space for London",
 					"Sumac Centre",
+					"DIY Space for London",
 					"The Autonomous Centre of Edinburgh",
-					"Cowley Club",
 					"Common House",
 					"The Field",
 					"Freedom Bookshop",
